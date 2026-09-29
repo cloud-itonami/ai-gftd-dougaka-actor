@@ -2,7 +2,7 @@
 
 dougaka (動画家) — 縦型ショート動画（街歩き / ライフハック / 観察 vlog /
 ミニドキュメンタリー）を定期制作・公開する aozora creator actor。core
-contract は `README.md`、pattern は full-repo `../../../CLAUDE.md` "Actors" 節
+contract は `README.md`、pattern は full-repo `../../../AGENTS.md` "Actors" 節
 （containment + independent governor + append-only ledger）。テンプレートは
 sibling `../com-etzhayyim-minidrama`（keep in sync）。
 Superproject decision record:

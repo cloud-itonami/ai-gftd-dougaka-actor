@@ -43,7 +43,7 @@
 ;; ADR-2608291009 決定 5 defines margin as revenue − cost. Revenue is measured
 ;; and it is zero: no catalog entry names this seller. A margin of 0 for
 ;; `earned nothing` printing the same as `broke even` is the defect class
-;; CLAUDE.md names, so the model reports MARGIN UNMEASURED and this file quotes
+;; AGENTS.md names, so the model reports MARGIN UNMEASURED and this file quotes
 ;; no percentage.
 
 {:pricing/version 1
