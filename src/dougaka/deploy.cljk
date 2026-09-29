@@ -70,7 +70,7 @@
   1024)
 
 (defn resolve-chat-endpoint
-  "Resolution order (CLAUDE.md 'LLM モデル選択', + the repo's explicit choice):
+  "Resolution order (AGENTS.md 'LLM モデル選択', + the repo's explicit choice):
    ① env override — DOUGAKA_LLM_URL / DOUGAKA_OLLAMA_URL (+ DOUGAKA_LLM_MODEL)
    ② resources/llm.edn — an explicit, reasoned selection checked into the repo
    ③ `murakumo-main` alias → {:endpoint :alias-for}
